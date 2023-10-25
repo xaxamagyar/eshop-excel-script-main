@@ -1,0 +1,5 @@
+node_modules/**
+main-linux
+main-macos
+main-win.exe
+result.xml

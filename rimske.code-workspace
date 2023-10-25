@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../rimske"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "php-signup-login-main"
+	}
+}

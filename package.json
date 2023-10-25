@@ -1,0 +1,17 @@
+{
+  "name": "excel-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.mjs",
+  "scripts": {
+    "dev": "node main.mjs",
+    "exec": "pkg main.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pkg": "^5.8.1",
+    "xlsx": "^0.18.5",
+    "xml-js": "^1.6.11"
+  }
+}
